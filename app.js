@@ -19,3 +19,5 @@ switch (comando) {
     console.log("Comando no reconocido");
 }
 console.log("This is a test for magit learning");
+
+console.log("This is a secon test to see if I can push to github");
