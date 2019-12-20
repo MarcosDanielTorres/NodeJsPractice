@@ -23,3 +23,4 @@ console.log("This is a test for magit learning");
 console.log("This is a secon test to see if I can push to github");
 
 console.log("This is a third test");
+console.log("This is a third test");
