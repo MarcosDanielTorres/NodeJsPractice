@@ -18,3 +18,4 @@ switch (comando) {
   default:
     console.log("Comando no reconocido");
 }
+console.log("This is a test for magit learning");
