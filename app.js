@@ -1,5 +1,6 @@
-const argv = require("yargs").argv;
+//const argv = require("yargs").argv;
 
+const arv = require("./config/yargs.js");
 console.log(argv);
 
 let comando = argv._[0];
@@ -18,9 +19,3 @@ switch (comando) {
   default:
     console.log("Comando no reconocido");
 }
-console.log("This is a test for magit learning");
-
-console.log("This is a secon test to see if I can push to github");
-
-console.log("This is a third test");
-console.log("This is a third test");
